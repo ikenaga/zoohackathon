@@ -1,0 +1,114 @@
+---
+output:
+  revealjs::revealjs_presentation:
+    theme: night
+    transition: fade
+    highlight: pygments
+    center: false
+---
+
+## {data-background="zoo2.png"}
+
+## Projetos
+
+### ...
+
+### Desafio
+O que você e seu time consideram importante ser solucionado?
+
+### Protótipo - MVP
+Como vocês podem apresentar a ideia da forma simples e no prazo?
+
+### Pitch
+Como vocês podem explicar a ideia de forma cativante?
+
+
+## Protótipos rápidos
+
+### Conteúdo
+
+https://wordpress.com/
+
+
+### No code
+
+https://bubble.io/
+
+https://www.dronahq.com/
+
+https://powerapps.microsoft.com/en-us/
+
+https://uibakery.io/
+
+https://retool.com/
+
+https://zeroqode.com/
+
+
+
+## Protótipos rápidos
+
+### Reconhecimento de imagem
+
+https://aws.amazon.com/pt/rekognition/
+
+https://cloud.google.com/vision/
+
+### Chatbot (whatsapp, Messenger etc.)
+
+https://messagebird.com/en/
+
+### Hackathon Starter
+https://github.com/sahat/hackathon-starter
+
+
+## Protótipos rápidos
+
+### Build database
+
+https://www.inboldsolutions.com/
+
+https://mlab.com/
+
+AWS, Azure, Microsoft, IBM etc.
+
+
+## Análise de Dados
+
+https://aws.amazon.com/pt/machine-learning/
+
+https://cloud.google.com/automl
+
+https://www.ibm.com/br-pt/cloud/machine-learning
+
+https://azure.microsoft.com/pt-br/overview/ai-platform/
+
+### Code
+
+https://cran.r-project.org/
+
+https://rstudio.com/products/cloud/
+
+https://rstudio.com/products/shinyapps/
+
+https://colab.research.google.com/
+
+https://pandas.pydata.org/
+
+https://pytorch.org/
+
+
+## Bases de Dados
+
+https://dados.gov.br/
+
+https://data.nasa.gov/browse
+
+https://br.pinterest.com/
+
+
+
+## Obrigado!
+
+https://github.com/ikenaga/zoohackathon
+
