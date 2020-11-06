@@ -5,9 +5,22 @@ output:
     transition: fade
     highlight: pygments
     center: false
+  html_document:
+      self_contained: yes
+      css: "style.css"
 ---
 
-## {data-background="zoo2.png"}
+
+## {data-background=#000000}
+
+```{css, echo=FALSE}
+.reveal section img {
+    border: none;
+    box-shadow: none;
+}
+```
+
+![3teO4n.md.png](https://iili.io/3teO4n.md.png){width=90%}
 
 ## Projetos
 
@@ -110,5 +123,9 @@ https://br.pinterest.com/
 
 ## Obrigado!
 
-https://github.com/ikenaga/zoohackathon
+### ...
+
+### Apresentação
+
+https://rpubs.com/ikenaga/zoohackathon
 
